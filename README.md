@@ -12,4 +12,5 @@
 
 Here you can find some useful links:
 
+* Download app: https://play.google.com/store/apps/details?id=pl.damianpiwowarski.navbarapps
 * Our community page: https://plus.google.com/communities/107473329276873466584
