@@ -10,4 +10,6 @@
 
 # Links
 
+Here you can find some useful links:
+
 * Our community page: https://plus.google.com/communities/107473329276873466584
