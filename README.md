@@ -8,6 +8,10 @@
 
 <p align="center">Welcome to Navbar Apps official GitHub page where you can find <a href="http://github.com/damianpiwowarski/NavbarApps/issues">Issue Tracker</a>, <a href="http://github.com/damianpiwowarski/NavbarApps/wiki">Wiki</a> and more.</p>
 
+# Wiki / How to?
+
+* <a href="https://github.com/damianpiwowarski/NavbarApps/wiki/How-to-create-custom-Navigation-Bar-background">How to create custom Navigation Bar background?</a>
+
 # Links
 
 Here you can find some useful links:
