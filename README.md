@@ -12,6 +12,8 @@
 
 * <a href="https://github.com/damianpiwowarski/NavbarApps/wiki/How-to-create-custom-Navigation-Bar-background%3F">How to create custom Navigation Bar background?</a>
 
+* <a href="https://github.com/damianpiwowarski/NavbarApps/wiki/How-to-import-Custom-Image%3F">How to import Custom Image?</a>
+
 # Links
 
 Here you can find some useful links:
