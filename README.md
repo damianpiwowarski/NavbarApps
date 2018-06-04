@@ -8,7 +8,7 @@
 
 <p align="center">Welcome to Navbar Apps official GitHub page where you can find <a href="http://github.com/damianpiwowarski/NavbarApps/issues">Issue Tracker</a>, <a href="http://github.com/damianpiwowarski/NavbarApps/wiki">Wiki</a> and more.</p>
 
-# Wiki / How to?
+# Wiki / Howtos
 
 * <a href="https://github.com/damianpiwowarski/NavbarApps/wiki/How-to-create-custom-Navigation-Bar-background%3F">How to create custom Navigation Bar background?</a>
 * <a href="https://github.com/damianpiwowarski/NavbarApps/wiki/How-to-import-Custom-Image%3F">How to import Custom Image?</a>
